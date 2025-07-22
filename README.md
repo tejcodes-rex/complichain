@@ -10,7 +10,7 @@ A working prototype for a blockchain-based log management system that ensures **
 
 | Dashboard | Agent Management | Log Viewer | Violation Insights |
 |----------|------------------|-------------|-------------------|
-| ![Dashboard](images/dashboard.png) | ![Agents](images/agents.png) | ![Logs](images/logs.png) | ![Violations](images/violations.png) |
+| ![Dashboard](https://github.com/user-attachments/assets/d5b1e7c1-57e1-49f6-8894-58c690cc3ec6) | ![Agents](https://github.com/user-attachments/assets/d0b7bccf-bc1a-4a96-90e2-d7fe0f51e189) | ![Logs](https://github.com/user-attachments/assets/7c0012e8-a307-4164-af99-4559a33791ad) | ![Violations](https://github.com/user-attachments/assets/451da70d-1785-4a5b-bf9e-fc45337b2ec9) | 
 
 ---
 
