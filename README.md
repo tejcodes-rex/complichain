@@ -122,11 +122,11 @@ curl -X POST http://localhost:5000/api/logs/ingest \
 -H "Authorization: Bearer <JWT_TOKEN>" \
 -H "Content-Type: application/json" \
 -d '{
-  "message": "User login from VPN endpoint",
-  "user": "alice",
-  "severity": "Low",
-  "accessRole": "employee",
-  "source": "agent-linux-1"
+  "message": "Detected sudo access escalation on server X",
+  "user": "bob",
+  "severity": "Critical",
+  "accessRole": "analyst",
+  "source": "agent-linux-3"
 }'
 ```
 
